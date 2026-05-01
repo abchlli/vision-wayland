@@ -35,7 +35,7 @@ Once you've played around enough, I recommend forking vision to be able to fetch
 > [!WARNING]
 > Make sure to include the microcode for your CPU (e.g. `linux-firmware-amd` or `intel-ucode`) and the additional firmware required by your hardware (e.g. `linux-firmware-network`).
 
-You are going to name your own [Void Linux](https://voidlinux.org/) fork!  
+Time to name your own [Void Linux](https://voidlinux.org/) fork!  
 This could be done on any other distro or from scratch, but [they](https://github.com/orgs/void-linux/people) make it really comfy to do so.  
 Read the [Void Handbook](https://docs.voidlinux.org/)[^4] and browse [Void Packages](https://voidlinux.org/packages/)[^5].
 
