@@ -15,7 +15,7 @@ cd void-mklive/
     -a "x86_64" \
     -b "base-system" \
     -o ../build/vision.iso \
-    -p "$system $drivers" \
+    -p "$system $drivers $audio $bluetooth $fonts $wayland" \
     -I ../root \
     -e /bin/bash \
     -C "live.shell=/bin/bash" \
