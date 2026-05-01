@@ -44,6 +44,9 @@ Read the [Void Handbook](https://docs.voidlinux.org/)[^4] and browse [Void Packa
 > Exited to see all your beautiful [r/unixporn-type](https://www.reddit.com/r/unixporn/top/?t=year) setups easily installable and ready to use.  
 > Personally, I have Sway and KDE Plasma on Wayland installed and of course, configured exactly to my liking!
 
+# Install
+Run `void-installer` (this will get it done very fast) or do it [manually](https://docs.voidlinux.org/installation/guides/index.html).  
+
 [^1]: Excluding some hardware binary blobs, use/make better hardware to avoid this!
 
 [^2]: You can add [void-packages](https://github.com/void-linux/void-packages) as a submodule so that even if Void (going strong since 2008) repositories ever go down and there's not a single mirror available, you can still have everything exactly the way it was; you'll be pulling from upstream and building things yourself.
