@@ -1,4 +1,4 @@
-/build/*
+/build/*.iso
 
 # Builds
 *.dll
