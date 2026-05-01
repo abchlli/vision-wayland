@@ -29,7 +29,7 @@ Total control, you don't even depend on repositories [^2], but you can use them 
 > Additionally, it is possible to stop at the rootfs, instead of building a full bootable ISO.
 
 Switch to the `amd`, `nvidia` or `intel` (depending on your card) branch for a selection of graphics drivers.  
-This fork has audio, bluetooth and wayland ready to use; if you want the same thing but without these, please use [vision](https://github.com/abchlli).
+This fork has audio, bluetooth and wayland ready to use; if you want the same thing without these, please use [vision](https://github.com/abchlli).
 Once you've played around enough, I recommend forking this repository to be able to fetch changes[^3].
 
 > [!WARNING]
