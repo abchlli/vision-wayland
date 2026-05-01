@@ -29,8 +29,8 @@ Total control, you don't even depend on repositories [^2], but you can use them 
 > Additionally, it is possible to stop at the rootfs, instead of building a full bootable ISO.
 
 Switch to the `amd`, `nvidia` or `intel` (depending on your card) branch for a selection of graphics drivers.  
-This repository contains the absolute barebones; if you want the same thing but with a display server, audio, and bluetooth already set up, please use the [vision-xorg](https://github.com/abchlli/vision-xorg) or [vision-wayland](https://github.com/abchlli/vision-wayland) fork instead.  
-Once you've played around enough, I recommend forking vision to be able to fetch changes[^3].
+This fork has audio, bluetooth, fonts and wayland ready to use; if you want the same thing but without these, please use the [vision](https://github.com/abchlli).
+Once you've played around enough, I recommend forking this repository to be able to fetch changes[^3].
 
 > [!WARNING]
 > Make sure to include the microcode for your CPU (e.g. `linux-firmware-amd` or `intel-ucode`) and the additional firmware required by your hardware (e.g. `linux-firmware-network`).
