@@ -42,7 +42,7 @@ Read the [Void Handbook](https://docs.voidlinux.org/)[^4] and browse [Void Packa
 > [!NOTE]
 > Use the `vision` tag (if your fork isn't private and on GitHub) to allow discoverability by others.  
 > Exited to see all your beautiful [r/unixporn-type](https://www.reddit.com/r/unixporn/top/?t=year) setups easily installable and ready to use.  
-> Personally, I have Sway and KDE Plasma on Wayland installed and of course, configured exactly to my liking!
+> I have Sway and KDE Plasma on Wayland installed and of course, configured exactly to my liking!
 
 # Install
 Run `void-installer` (this will get it done very fast) or do it [manually](https://docs.voidlinux.org/installation/guides/index.html).  
