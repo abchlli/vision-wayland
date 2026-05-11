@@ -1,6 +1,8 @@
 #!/bin/bash
 source ./clean.sh
-source ./pkgs.d/*
+for f in ./pkgs.d/*; do
+    [ -r "$f" ] && source "$f"
+done
 
 # Are you root?
 if [ "$(id -u)" -ne 0 ] ; then 
